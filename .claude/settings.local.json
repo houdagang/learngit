@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(git checkout *)",
+      "Bash(git config *)",
+      "Bash(cp -r /tmp/learngit_temp/.git .)",
+      "Bash(cp -r /tmp/learngit_temp/* .)",
+      "Bash(cp -r /tmp/learngit_temp/.* .)",
+      "Bash(rm -rf /tmp/learngit_temp)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
