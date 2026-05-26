@@ -12,7 +12,15 @@
       "Bash(cp -r /tmp/learngit_temp/.* .)",
       "Bash(rm -rf /tmp/learngit_temp)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git lfs *)",
+      "Bash(git rm *)",
+      "Bash(git reset *)",
+      "Bash(git count-objects *)",
+      "Bash(ping *)",
+      "Bash(gh --version)",
+      "Bash(gh api *)"
     ]
   }
 }
